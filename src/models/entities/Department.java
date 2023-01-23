@@ -3,7 +3,7 @@ package models.entities;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Department implements Serializable {
+public class Seller implements Serializable {
 
     private Integer id;
     private String name;
